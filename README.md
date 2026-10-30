@@ -1,0 +1,4 @@
+#termux-settings
+## install
+```shell
+```
